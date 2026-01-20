@@ -498,4 +498,4 @@ Para dúvidas ou sugestões, abra uma issue no repositório.
 
 ---
 
-**Desenvolvido com ❤️ para impressionar recrutadores** 🚀
+**Desenvolvido por Silas Manoel** 🚀
