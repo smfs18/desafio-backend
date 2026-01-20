@@ -1,6 +1,6 @@
 # 🐘 Guia de Instalação PostgreSQL
 
-## Opção 1: Com Docker (RECOMENDADO - Mais Fácil ✨)
+## Opção 1: Com Docker 
 
 ```bash
 # 1. Inicie o PostgreSQL em um container
@@ -92,7 +92,7 @@ psql -U postgres -d vlab_fuel -h localhost
 
 ---
 
-## Opção 3: Instalação com Docker Compose (Melhor para o Projeto 🌟)
+## Opção 3: Instalação com Docker Compose 
 
 Já temos um `docker-compose.yml` pronto no projeto! Basta usar:
 
