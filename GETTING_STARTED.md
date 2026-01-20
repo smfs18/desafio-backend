@@ -2,7 +2,7 @@
 
 ## 🎯 Começar em 5 minutos
 
-### Opção 1: Docker (Mais fácil ✨)
+### Opção 1: Docker 
 
 ```bash
 # 1. Clone e entre no diretório
