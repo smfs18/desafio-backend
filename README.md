@@ -12,7 +12,7 @@ A **V-Lab Fuel Gateway API** é uma aplicação backend em FastAPI que gerencia 
 
 ### Características Principais
 
-✅ **Arquitetura em Camadas** - Clean Architecture sem exagero acadêmico  
+✅ **Arquitetura em Camadas** - Clean Architecture  
 ✅ **Detecção de Anomalias** - Identifica abastecimentos suspeitos (>25% do preço normal)  
 ✅ **Validação de CPF** - Regras de negócio reutilizáveis e testáveis  
 ✅ **Paginação** - Suporte completo para listagem com filtros  
@@ -25,7 +25,7 @@ A **V-Lab Fuel Gateway API** é uma aplicação backend em FastAPI que gerencia 
 
 ## 🏛️ Arquitetura
 
-### Visão Geral de uma Requisição (30 segundos 👇)
+### Visão Geral de uma Requisição 
 
 ```
 HTTP Request
