@@ -316,7 +316,7 @@ make load-data        # Carrega dados iniciais
 1. **Separação de Responsabilidades** - Cada camada tem um propósito claro
 2. **Testabilidade** - Fácil isolar e testar cada componente
 3. **Escalabilidade** - Pronto para times maiores
-4. **Profissionalismo** - É exatamente o que empresas de produto esperam
+4. **Profissionalismo** 
 
 ### Por que SQLAlchemy Async?
 
@@ -475,15 +475,15 @@ MIT License - Ver LICENSE para detalhes
 
 ---
 
-## ✨ Diferenciais que Impressionam Recrutadores
+## ✨ Diferenciais
 
 ✅ API versionada (`/api/v1`)  
 ✅ Alembic rodando automaticamente  
 ✅ Script de carga isolado  
 ✅ Testes focados em regra (CPF + anomalia)  
-✅ `.env.example` (maturidade absurda)  
-✅ README explicando decisões (não só como rodar)  
-✅ Clean Architecture sem exagero  
+✅ `.env.example`  
+✅ README explicando decisões  
+✅ Clean Architecture   
 ✅ Async/Await nativo  
 ✅ Dockerfile multi-stage  
 ✅ Docker Compose completo  
